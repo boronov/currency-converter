@@ -1,0 +1,290 @@
+[
+   {
+      "id":"840",
+      "name":"USD",
+      "nominal":1,
+      "full_name":"Доллар США",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-USD.png",
+      "value":11.4
+   },
+   {
+      "id":"978",
+      "name":"EUR",
+      "nominal":1,
+      "full_name":"ЕВРО",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-EUR.png",
+      "value":12.2083
+   },
+   {
+      "id":"156",
+      "name":"CNY",
+      "nominal":1,
+      "full_name":"Китайский юань",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-CNY.png",
+      "value":1.7017
+   },
+   {
+      "id":"756",
+      "name":"CHF",
+      "nominal":1,
+      "full_name":"Швейцарский франк",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-CHF.png",
+      "value":11.9023
+   },
+   {
+      "id":"810",
+      "name":"RUB",
+      "nominal":1,
+      "full_name":"Российский рубль",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-RUB.png",
+      "value":0.1675
+   },
+   {
+      "id":"860",
+      "name":"UZS",
+      "nominal":100,
+      "full_name":"Узбекский Сум",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-UZS.png",
+      "value":0.1033
+   },
+   {
+      "id":"417",
+      "name":"KGS",
+      "nominal":10,
+      "full_name":"Киргизский сом",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-KGS.png",
+      "value":1.4114
+   },
+   {
+      "id":"398",
+      "name":"KZT",
+      "nominal":10,
+      "full_name":"Казахский тенге",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-KZT.png",
+      "value":0.2631
+   },
+   {
+      "id":"933",
+      "name":"BYN",
+      "nominal":1,
+      "full_name":"Новый белорусский рубль",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-BYN.png",
+      "value":3.4432
+   },
+   {
+      "id":"364",
+      "name":"IRR",
+      "nominal":1000,
+      "full_name":"Иранский риал",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-IRR.png",
+      "value":0.2714
+   },
+   {
+      "id":"971",
+      "name":"AFN",
+      "nominal":10,
+      "full_name":"Афганский афгани",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-AFN.png",
+      "value":1.2795
+   },
+   {
+      "id":"586",
+      "name":"PKR",
+      "nominal":10,
+      "full_name":"Пакистанская рупия",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-PKR.png",
+      "value":0.5687
+   },
+   {
+      "id":"949",
+      "name":"TRY",
+      "nominal":1,
+      "full_name":"Турецкая лира",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-TRY.png",
+      "value":0.7029
+   },
+   {
+      "id":"934",
+      "name":"TMT",
+      "nominal":1,
+      "full_name":"Новый туркменский манат",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-TMT.png",
+      "value":3.2571
+   },
+   {
+      "id":"826",
+      "name":"GBP",
+      "nominal":1,
+      "full_name":"Английский фунт стерлингов",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-GBP.png",
+      "value":14.3777
+   },
+   {
+      "id":"36",
+      "name":"AUD",
+      "nominal":1,
+      "full_name":"Австралийский доллар",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-AUD.png",
+      "value":8.1533
+   },
+   {
+      "id":"208",
+      "name":"DKK",
+      "nominal":1,
+      "full_name":"Датская крона",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-DKK.png",
+      "value":1.6409
+   },
+   {
+      "id":"352",
+      "name":"ISK",
+      "nominal":10,
+      "full_name":"Исландская крона",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-ISK.png",
+      "value":0.8853
+   },
+   {
+      "id":"124",
+      "name":"CAD",
+      "nominal":1,
+      "full_name":"Канадский доллар",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-CAD.png",
+      "value":8.9503
+   },
+   {
+      "id":"414",
+      "name":"KWD",
+      "nominal":1,
+      "full_name":"Кувейтский динар",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-KWD.png",
+      "value":37.2695
+   },
+   {
+      "id":"578",
+      "name":"NOK",
+      "nominal":1,
+      "full_name":"Норвежская крона",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-NOK.png",
+      "value":1.2005
+   },
+   {
+      "id":"702",
+      "name":"SGD",
+      "nominal":1,
+      "full_name":"Сингапурский доллар",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-SGD.png",
+      "value":8.323
+   },
+   {
+      "id":"752",
+      "name":"SEK",
+      "nominal":1,
+      "full_name":"Шведская крона",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-SEK.png",
+      "value":1.1587
+   },
+   {
+      "id":"392",
+      "name":"JPY",
+      "nominal":10,
+      "full_name":"Японская йена",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-JPY.png",
+      "value":0.8964
+   },
+   {
+      "id":"944",
+      "name":"AZN",
+      "nominal":1,
+      "full_name":"Азербайджанский манат",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-AZN.png",
+      "value":6.7059
+   },
+   {
+      "id":"51",
+      "name":"AMD",
+      "nominal":100,
+      "full_name":"Армянский драм",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-AMD.png",
+      "value":2.5436
+   },
+   {
+      "id":"981",
+      "name":"GEL",
+      "nominal":1,
+      "full_name":"Грузинский лари",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-GEL.png",
+      "value":3.9781
+   },
+   {
+      "id":"498",
+      "name":"MDL",
+      "nominal":1,
+      "full_name":"Молдавский лей",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-MDL.png",
+      "value":0.5977
+   },
+   {
+      "id":"980",
+      "name":"UAH",
+      "nominal":1,
+      "full_name":"Украинская гривна",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-UAH.png",
+      "value":0.3859
+   },
+   {
+      "id":"784",
+      "name":"AED",
+      "nominal":1,
+      "full_name":"Дирхам  ОАЭ",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-AED.png",
+      "value":3.1032
+   },
+   {
+      "id":"682",
+      "name":"SAR",
+      "nominal":1,
+      "full_name":"Риал Саудовской Аравии",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-SAR.png",
+      "value":3.0391
+   },
+   {
+      "id":"356",
+      "name":"INR",
+      "nominal":10,
+      "full_name":"Индийская рупия",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-INR.png",
+      "value":1.4681
+   },
+   {
+      "id":"985",
+      "name":"PLN",
+      "nominal":1,
+      "full_name":"Польский злотый",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-PLN.png",
+      "value":2.6702
+   },
+   {
+      "id":"458",
+      "name":"MYR",
+      "nominal":1,
+      "full_name":"Малайзийский ринггит",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-MYR.png",
+      "value":2.6021
+   },
+   {
+      "id":"764",
+      "name":"THB",
+      "nominal":1,
+      "full_name":"Таиландский бат",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-THB.png",
+      "value":0.334
+   },
+   {
+      "id":"",
+      "name":"TJS",
+      "nominal":1,
+      "full_name":"Таджикский сомони",
+      "flag":"https://transfer.humo.tj/currency-app/v1/get_image/flags-TJS.png",
+      "value":1
+   }
+]
