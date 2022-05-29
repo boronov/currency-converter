@@ -1,15 +1,14 @@
 <h1>Currency Converter</h1>
 
+<img  align="left" src="promo/app_icon.png" width="120px">
 A simple and modern currency converter app for Android platform. The app is developed using Kotlin, MVVM, Dagger Hilt, Retrofit. Feel free smile to provide feedback or suggestions loudspeaker if any.
 
 A currency converter application for major of the currencies used in the Tajikistan <img src="https://snipp.ru/cdn/country-flags/png24px/tj.png" width="24px">
 
 You can quickly convert and make mathematical operations between currencies.
 
-Soon in...
-
-<a href=""><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="175px"></a>
-<a href=""><img src="https://f-droid.org/badge/get-it-on.png" width="175px"></a>
+<a href="https://play.google.com/store/apps/details?id=tj.boronov.currency"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="175px"></a>
+<a href="https://f-droid.org/ru/packages/tj.boronov.currency/"><img src="https://f-droid.org/badge/get-it-on.png" width="175px"></a>
 
 ## Architecture
 This app implements the MVVM architectural pattern using a single activity with fragment-swapping and data-caching using a repository to fetch local or remote data. 
